@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     let username = "yashils"
     let name = "Yashin Bhuvanadas"
+    let zip = "1234"
 
     override func viewDidLoad() {
         super.viewDidLoad()
